@@ -1,0 +1,9 @@
+fastapi==0.100.0
+uvicorn==0.22.0
+sqlalchemy==2.0.19   # changed from 2.1.0 to 2.0.19
+psycopg2-binary==2.9.7
+python-dotenv==1.0.0
+pydantic==1.10.12
+plotly==5.15.0
+apscheduler==3.10.1
+requests==2.31.0
