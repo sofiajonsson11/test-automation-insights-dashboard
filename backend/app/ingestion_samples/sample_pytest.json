@@ -1,0 +1,14 @@
+{
+    "tests": [
+        {
+            "nodeid": "test_sample.py::test_example",
+            "outcome": "pass",
+            "duration": 0.12
+        },
+        {
+            "nodeid": "test_sample.py::test_fail",
+            "outcome": "fail",
+            "duration": 0.05
+        }
+    ]
+}
